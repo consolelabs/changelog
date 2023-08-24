@@ -1,17 +1,29 @@
 ---
-date: dd-mm-yyyy
-title: Changelog #0
+date: 19-08-2023
+title: Changelog Aug 19 2023
+product: Mochi
+thumbnai_url: https://hackmd.io/_uploads/HyLWVLNp2.png
+
 ---
 
-# #40 Weekly
+## New identity supported: Vault
 
-## `/wallet follow`
+The team recently added support for a new Vault identity 
 
-This new feature lets you add wallets to your favorite list for further access and interaction.  Stay organized, simplify wallet monitoring, and unlock new possibilities today!
+![](https://hackmd.io/_uploads/SJvSN8Eah.png)
 
 
-## `/wallet copy`
+## New Homepage
 
-Introducing a powerful feature that allows you to effortlessly replicate the movements of any specified wallet. Whether you want to imitate a whale wallet or learn from successful investors, this tool enables you to mirror their actions automatically. 
+![](https://hackmd.io/_uploads/S1254IV6n.png)
 
-Gain valuable insights and potentially elevate your own financial positions with ease!
+## A new way to view pay receipt
+
+Now whenever you tip or view your transactions, there will be a little short code attached to it that allows you to view the receipt on the web.
+
+## Financial webcomic coming your way 🤙
+
+Inspired by thewokesalaryman series, the team at Console Labs gathered to publish their own version of financial webcomic with the aim to streamline economic knowledge to a younger audience
+
+
+
