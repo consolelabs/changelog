@@ -1,0 +1,18 @@
+name: Curl Action
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  curl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Make Curl Request
+        run: |
+          curl -X GET https://api-preview.mochi.pod.town/api/v1/product-metadata/crawl-changelogs
