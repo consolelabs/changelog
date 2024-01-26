@@ -15,4 +15,4 @@ jobs:
 
       - name: Make Curl Request
         run: |
-          curl -X GET https://api-preview.mochi.console.so/api/v1/product-metadata/crawl-changelogs
+          curl -X GET https://api.mochi.console.so/api/v1/product-metadata/crawl-changelogs
